@@ -1,0 +1,9 @@
+body {
+    max-width: 1024px;
+    text-align: center;
+    background: aqua;
+}
+.center{
+    display: inline-block;
+ 
+}
