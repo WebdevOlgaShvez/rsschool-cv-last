@@ -10,7 +10,7 @@
     color: black;
     font-weight: normal;
   }
-  /* *******************first_section*****************************/
+  
   /* header*/
   
   .first_section{
@@ -128,38 +128,17 @@
   /************************ footer *******************************/
    footer{
        height: 185px;
-       background-color: black;
+       background-color: rgb(95, 94, 94);
        display: flex;
        align-items: center;
        justify-content: space-around;
    }
-  
-   .nav_items_ul{
-      width: 236px;
-      height: 20px;
-  
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
-      overflow: hidden;
-    }
-    footer li{
-      float: left;
-    }
-  .nav_items_ul li{
-  display: inline;
-  }
-  
-   .nav_items_ul li a {
+   /* .logo_github{
+    height: 200px;
+    width: 200px; 
+   } */
+  /* .logo_rss{
     
-       color: white;
-      font-size: 14px;
-      display: block;
-      font-weight: 400;
-      line-height: 16,9px;
-      text-decoration: none;
-      border-right: 1px solid #4E4E4E;
-     
-      padding: 0 10px;
-    }
-   
+      height: 100px;
+      width: 100px;
+  } */
